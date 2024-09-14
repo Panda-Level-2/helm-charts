@@ -1,1 +1,2 @@
-# helm-repo
+# helm-charts
+Example helm repository
